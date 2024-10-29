@@ -1,2 +1,2 @@
 # gcf-test
-Test GCF webhook via
+Test GCF webhook via on slack
